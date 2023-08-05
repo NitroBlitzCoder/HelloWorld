@@ -1,2 +1,2 @@
 # HelloWorld
-First project in GitHub
+South Brunswick HighSchool AP CompSci
